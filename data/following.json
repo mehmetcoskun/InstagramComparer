@@ -1,0 +1,11 @@
+{
+  "relationships_following": [
+    {
+      "string_list_data": [
+        {
+          "value": "username"
+        }
+      ]
+    }
+  ]
+}
